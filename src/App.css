@@ -72,3 +72,7 @@ a.text-link {
   src: url(https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2);
   font-weight: 1 1000;
 }
+
+html {
+  background-color: #0b0c10;
+}
