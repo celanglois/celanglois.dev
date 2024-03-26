@@ -1,0 +1,54 @@
+{
+  "name": "Charles-Éric Langlois",
+  "title": "Projects Archive",
+  "headers": {
+    "year": "Year",
+    "project": "Project",
+    "worked-on-at": "Worked on at",
+    "technologies": "Built with",
+    "link": "Link"
+  },
+  "projects": {
+    "portfolio": {
+      "year": "2024",
+      "project": "celanglois.dev",
+      "worked-on-at": "",
+      "technologies": {
+        "html": "HTML",
+        "css": "CSS",
+        "typescript": "TypeScript",
+        "react": "React"
+      },
+      "link": "https://celanglois.dev",
+      "link-text": "celanglois.dev"
+    },
+    "mymd": {
+      "year": "2023 — 2024",
+      "project": "My MD app",
+      "worked-on-at": "nventive",
+      "technologies": {
+        "uno": "Uno Platform",
+        "cs": "C#",
+        "xaml": "XAML",
+        "net": ".NET",
+        "xamarin": "Xamarin"
+      },
+      "link": "https://apps.apple.com/ca/app/my-md-mobile/id1144752656",
+      "link-text": "My MD"
+    },
+    "myvca": {
+      "year": "2021 — 2024",
+      "project": "myVCA app",
+      "worked-on-at": "nventive",
+      "technologies": {
+        "uno": "Uno Platform",
+        "cs": "C#",
+        "xaml": "XAML",
+        "net": ".NET",
+        "xamarin": "Xamarin"
+      },
+      "link": "https://apps.apple.com/ca/app/myvca/id1172429469",
+      "link-text": "myVCA"
+    }
+  }
+}

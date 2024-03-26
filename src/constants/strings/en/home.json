@@ -1,0 +1,65 @@
+{
+  "header": {
+    "name": "Charles-Éric Langlois",
+    "title": "Software Engineer",
+    "navbar": {
+      "about": "About",
+      "experience": "Experience",
+      "projects": "Projects"
+    },
+    "links": {
+      "github": {
+        "link": "https://github.com/calsei",
+        "image": "/github-logo.svg"
+      },
+      "linkedin": {
+        "link": "https://linkedin.com/in/celanglois",
+        "image": "/linkedin-logo.svg"
+      },
+      "x": {
+        "link": "https://twitter.com/celanglois1",
+        "image": "/x-logo.svg"
+      }
+    }
+  },
+  "content": {
+    "about": "Hello, I'm Charles-Éric, a software engineer based in Montreal. I'm passionate about software engineering in all its forms: web, mobile, AI, video games, and cloud computing. Through this website, I'll be documenting my work, both professional and personal, with these technologies.",
+    "experiences": {
+      "nventive": {
+        "start": "2021",
+        "end": "2024",
+        "company": "nventive",
+        "position": "Mobile Developer",
+        "former-positions": {
+          "mobile-developer-intern": "Mobile Developer Intern"
+        },
+        "description": "Implemented features for various mobile apps for clients, including VCA Animal Hospitals and MD Financial. Collaborated with other developers, project managers, designers, and QAs to bring clients' visions to life.",
+        "technologies": {
+          "c#": "C#",
+          "xaml": "XAML",
+          "uno": "Uno Platform",
+          "flutter": "Flutter",
+          "dart": "Dart"
+        },
+        "link": "https://nventive.com/en"
+      }
+    },
+    "view-resume": "View Full Resume",
+    "resume": "/resume.pdf",
+    "projects": {
+      "portfolio": {
+        "name": "celanglois.dev",
+        "image": "/celangloisdev-thumbnail.png",
+        "description": "Personal portfolio website built using React.",
+        "technologies": {
+          "react": "React",
+          "typescript": "TypeScript",
+          "html": "HTML",
+          "css": "CSS"
+        },
+        "link": "https://celanglois.dev"
+      }
+    },
+    "view-projects": "View Full Project Archive"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "header": {
+    "name": "Charles-Éric Langlois",
+    "title": "Ingénieur logiciel",
+    "navbar": {
+      "about": "À propos",
+      "experience": "Expérience",
+      "projects": "Projets"
+    },
+    "links": {
+      "github": {
+        "link": "https://github.com/calsei",
+        "image": "/github-logo.svg"
+      },
+      "linkedin": {
+        "link": "https://linkedin.com/in/celanglois",
+        "image": "/linkedin-logo.svg"
+      },
+      "x": {
+        "link": "https://twitter.com/celanglois1",
+        "image": "/x-logo.svg"
+      }
+    }
+  },
+  "content": {
+    "about": "Bonjour, je suis Charles-Éric, un ingénieur logiciel basé à Montréal. Je suis passioné par le logiciel sous toutes ses formes: web, mobile, IA, jeux vidéo et l'infonuagique. Sur ce site web, je documenterai mon travail, à la fois professionnel et personnel, avec ces technologies.",
+    "experiences": {
+      "nventive": {
+        "start": "2021",
+        "end": "2024",
+        "company": "nventive",
+        "position": "Développeur mobile",
+        "former-positions": {
+          "mobile-developer-intern": "Stagiaire en développement mobile"
+        },
+        "description": "Développement de fonctionnalités pour diverses applications mobiles pour des clients, incluant VCA Animal Hospitals et MD Financial. Collaboration avec d'autres développeurs, chefs de projet, designers et AQs pour donner vie aux visions des clients.",
+        "technologies": {
+          "c#": "C#",
+          "xaml": "XAML",
+          "uno": "Uno Platform",
+          "flutter": "Flutter",
+          "dart": "Dart"
+        },
+        "link": "https://nventive.com/fr"
+      }
+    },
+    "view-resume": "Visionner mon CV complet",
+    "resume": "/cv.pdf",
+    "projects": {
+      "portfolio": {
+        "name": "celanglois.dev",
+        "image": "/celangloisdev-thumbnail.png",
+        "description": "Site portfolio personnel bâti à partir de React.",
+        "technologies": {
+          "react": "React",
+          "typescript": "TypeScript",
+          "html": "HTML",
+          "css": "CSS"
+        },
+        "link": "https://celanglois.dev"
+      }
+    },
+    "view-projects": "Visiter l'archive complet de mes projets"
+  }
+}

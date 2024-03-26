@@ -1,0 +1,13 @@
+.logo-link {
+  filter: brightness(0%) saturate(100%) invert(99%) sepia(1%) saturate(201%) hue-rotate(47deg) brightness(110%) contrast(71%);
+  margin: 0.1rem 0.5rem;
+  opacity: 0.5;
+  transition: 200ms all linear;
+  width: 30px;
+  -webkit-transition: -webkit-filter opacity 200ms linear;
+}
+
+.logo-link:hover {
+  cursor: pointer;
+  opacity: 1;
+}

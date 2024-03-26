@@ -1,0 +1,53 @@
+.item {
+  transition: all 500ms;
+}
+
+#title {
+  color: #c5c6c7;
+  display: table;
+  font: 800 15px 'Inter';
+  text-transform: uppercase;
+  text-wrap: nowrap;
+}
+
+#selected-title {
+  color: #ffffff;
+  display: table;
+  font: 800 15px 'Inter';
+  text-transform: uppercase;
+  text-wrap: nowrap;
+}
+
+#wrapper {
+  cursor: pointer;
+  display: flex;
+  width: 120px;
+}
+
+#wrapper:hover .indicator {
+  fill: #ffffff;
+  transform: scaleX(1.5);
+}
+
+#wrapper:hover .item {
+  color: #ffffff;
+  transform: translate(25px, 0px);
+}
+
+.indicator {
+  transition: all 500ms;
+  transform-origin: 0% 0%;
+}
+
+.item-indicator {
+  transition: transform 500s ease;
+}
+
+.selected {
+  display: inline-block;
+}
+
+.unselected {
+  display: none;
+  visibility: hidden;
+}

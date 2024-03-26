@@ -1,0 +1,18 @@
+#change-language-button-background {
+  margin: 0 0 auto auto;
+  display: inline-block;
+  padding: 10px;
+  background: #45a29d6c;
+  border-radius: 50%;
+  transition: 200ms all linear;
+}
+
+#change-language-button-background:hover {
+  background: #45a29dbd;
+  cursor: pointer;
+}
+
+#change-language-button-text {
+  font: 600 12px 'Inter';
+  color: #66fcf1;
+}

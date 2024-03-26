@@ -1,0 +1,9 @@
+#technology-block {
+  background-color: #45a29d6c;
+  display: inline-block;
+  padding: 0.2rem 0.7rem 0.3rem 0.7rem;
+  margin: 0 0.5rem 0.5rem 0;
+  border-radius: 1rem;
+  font: 600 12px 'Inter';
+  color: #66fcf1;
+}

@@ -1,0 +1,88 @@
+#content-wrapper.normal {
+  display: flex;
+  flex-direction: column;
+  flex-flow: column;
+  height: 100%;
+  padding: 6rem 0;
+  width: 100%;
+}
+
+#content-wrapper.small {
+  display: inline-block;
+  height: 100%;
+  overflow: scroll;
+  scrollbar-width: none;
+  width: 100%;
+}
+
+#project-cell {
+  color: #ffffff;
+  font: 600 17px 'Inter';
+}
+
+#projects-header {
+  display: flex;
+  flex: 0 1 auto;
+  margin: 0 0 3rem 0;
+}
+
+#projects-table {
+  text-align: left;
+  width: 100%;
+}
+
+#table-header-row {
+  border-bottom: 1px solid #c5c6c74f;
+}
+
+#table-header-row.normal tr th {
+  position: sticky;
+  top: 0;
+}
+
+#table-wrapper.normal {
+  height: 100%;
+  flex: 1 1 auto;
+  overflow: auto;
+  scrollbar-width: none;
+}
+
+#table-wrapper.small {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+
+#worked-at-cell,
+#year-cell {
+  color: #c5c6c7;
+  font: 400 17px 'Inter';
+}
+
+.hidden {
+  display: none;
+}
+
+.table-cell {
+  padding: 1rem 1rem 1rem 0;
+}
+
+.table-header {
+  background-color: #0b0c10;
+  color: #c5c6c7;
+  font: 600 15px 'Inter';
+  padding: 0 1rem 0.25rem 0;
+  text-wrap: nowrap;
+}
+
+.table-row {
+  border-bottom: 1px solid #c5c6c74f;
+}
+
+.table-technologies-cell {
+  padding: 1rem 0.5rem 0.5rem 0;
+}
+
+td {
+  vertical-align: top;
+}
